@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739510096935",
+    "project_id": "rekomendasilaptop-5a9f7",
+    "storage_bucket": "rekomendasilaptop-5a9f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739510096935:android:9dd975a90c9ec0ebb06a02",
+        "android_client_info": {
+          "package_name": "com.example.laptop_recommendation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9fARvkfVz3BWn66Vl6kPwljTbahdGqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739510096935:android:7bafba78a3c5eee2b06a02",
+        "android_client_info": {
+          "package_name": "com.example.pa_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9fARvkfVz3BWn66Vl6kPwljTbahdGqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
